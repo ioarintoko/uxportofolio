@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/uxportofolio/static/css/main.41c44960.css",
+    "main.js": "/uxportofolio/static/js/main.50796258.js",
+    "static/js/787.a997b9a7.chunk.js": "/uxportofolio/static/js/787.a997b9a7.chunk.js",
+    "static/media/Study.io.pdf": "/uxportofolio/static/media/Study.io.996f395d9eaa2e86bf35.pdf",
+    "static/media/makanakam.pdf": "/uxportofolio/static/media/makanakam.3d4937e7296327cb6115.pdf",
+    "static/media/IBake.pdf": "/uxportofolio/static/media/IBake.450a515116a7d82f4165.pdf",
+    "static/media/Makanakam.PNG": "/uxportofolio/static/media/Makanakam.1f05002aab10c61c41e9.PNG",
+    "static/media/study.io.PNG": "/uxportofolio/static/media/study.io.f2a8743b1a638521bae5.PNG",
+    "static/media/ibake.PNG": "/uxportofolio/static/media/ibake.10cf4b1ebcafa20a2621.PNG",
+    "index.html": "/uxportofolio/index.html",
+    "main.41c44960.css.map": "/uxportofolio/static/css/main.41c44960.css.map",
+    "main.50796258.js.map": "/uxportofolio/static/js/main.50796258.js.map",
+    "787.a997b9a7.chunk.js.map": "/uxportofolio/static/js/787.a997b9a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41c44960.css",
+    "static/js/main.50796258.js"
+  ]
+}
