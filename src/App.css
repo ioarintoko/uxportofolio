@@ -13,14 +13,63 @@
   }
 }
 
+.pdf{
+  float: right;
+  width: 75%;
+}
+
+.pdf iframe{
+  margin-top: 16px;
+  width: 75%;
+  height: 420px;
+}
+
+.content{
+  margin-top: 16px;
+  float: left;
+  width: 25%;
+  /* display: flex;
+  justify-content: center; */
+}
+
+.content img{
+  height: 80px;
+  width: 250px;
+  border-radius: 8%;
+  border: 1px solid #d3d4d9;
+}
+
+.content div{
+  margin: 8px;
+  height: 130px;
+  width: 255px;
+  border: 1px solid #282c34;
+  border-radius: 8%;
+}
+
+/* .ibake{
+  height: 300px;
+  width: 400px;
+}
+
+.makanakam{
+  height: 400px;
+  width: 400px;
+}
+
+.studyio{
+  height: 400px;
+  width: 400px;
+} */
+
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(3px + 2vmin);
   color: white;
 }
 
