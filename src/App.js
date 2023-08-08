@@ -47,6 +47,10 @@ function App() {
         <h1>
           Bramantio Galih Arintoko
         </h1>
+        <p>Bmantio20@gmail.com | 
+          <a 
+            href='https://drive.google.com/file/d/1ZeqYSVtqN9Gzm_bjStTiYzCRwKdK0NRT/view?usp=sharing' 
+            style={{color: 'white'}}> Click Here to see my Resume</a></p>
         <h3>Welcome to my UX Portfolio</h3>
         <p>Please Click The Project's Card Or Logo To Load The Project's Study Case PDF</p>
       </header>
